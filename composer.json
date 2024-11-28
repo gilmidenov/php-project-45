@@ -2,9 +2,11 @@
     "name": "hexlet/code",
     "type": "project",
     "description": "PHP brain-games project",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "Hexlet\\Code\\": "src/"
+            "Hexlet\\Code\\": "src/",
+            "BrainGames\\": "src/"
         }
     },
     "authors": [
@@ -12,7 +14,9 @@
             "name": "gilmidenov"
         }
     ],
-    "require": {},
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.1"
+    },
     "bin": [
         "bin/brain-games"
     ]
