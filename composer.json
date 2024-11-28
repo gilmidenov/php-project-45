@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "type": "project",
+    "description": "PHP brain-games project",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gilmidenov"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
+}
