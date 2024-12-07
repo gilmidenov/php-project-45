@@ -4,13 +4,9 @@
     "description": "PHP brain-games project",
     "license": "proprietary",
     "autoload": {
-        "psr-4": {
-            "Hexlet\\Code\\": "src/",
-            "BrainGames\\": "src/"
-        },
         "files": [
             "src/Cli.php",
-            "src/Even.php",
+            "src/Games/Even.php",
             "src/Engine.php",
             "src/Games/Calc.php",
             "src/Games/Gcd.php",

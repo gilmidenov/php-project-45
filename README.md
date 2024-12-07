@@ -3,12 +3,15 @@
 ### бейджик Maintainability
 [![Maintainability](https://api.codeclimate.com/v1/badges/d99efebff9e0bdf97ed9/maintainability)](https://codeclimate.com/github/gilmidenov/php-project-45/maintainability)
 ### asciinema video brain-even
-https://asciinema.org/a/O5hIB9i1yrY4yEsWNfg4Huz6S
+[![asciicast](https://asciinema.org/a/O5hIB9i1yrY4yEsWNfg4Huz6S.svg)](https://asciinema.org/a/O5hIB9i1yrY4yEsWNfg4Huz6S)
 ### asciinema video brain-calc
-https://asciinema.org/a/Nh0omDxPy2D0Qo3tjytKY4qd0
+[![asciicast](https://asciinema.org/a/Nh0omDxPy2D0Qo3tjytKY4qd0.svg)](https://asciinema.org/a/Nh0omDxPy2D0Qo3tjytKY4qd0)
 ### asciinema video brain-gcd
-https://asciinema.org/a/vfhQ9saL2BnANU80jhj3Pztfe
+[![asciicast](https://asciinema.org/a/vfhQ9saL2BnANU80jhj3Pztfe.svg)](https://asciinema.org/a/vfhQ9saL2BnANU80jhj3Pztfe)
 ### asciinema video brain-progression
-https://asciinema.org/a/8YeYEJ0wVpzkqOmHp2llBFKH1
+[![asciicast](https://asciinema.org/a/8YeYEJ0wVpzkqOmHp2llBFKH1.svg)](https://asciinema.org/a/8YeYEJ0wVpzkqOmHp2llBFKH1)
 ### asciinema video brain-prime
-https://asciinema.org/a/ziIwNG27GKV9wejFvxMiP23ih
+[![asciicast](https://asciinema.org/a/ziIwNG27GKV9wejFvxMiP23ih.svg)](https://asciinema.org/a/ziIwNG27GKV9wejFvxMiP23ih)
+
+## Описание
+Brain Games — это набор консольных игр для тренировки мозга.
